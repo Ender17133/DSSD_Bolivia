@@ -4,7 +4,7 @@ By: Beibarys Nyussupov
 Date: 4/28/2023
 
 Data source: https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson
-
+Here is the raw data: https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson
 Related research article: https://carlos-mendez.org/publication/20210318-economia/
 
 ![Bolivia](Bolivia.webp)
