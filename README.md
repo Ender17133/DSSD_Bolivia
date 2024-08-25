@@ -3,7 +3,8 @@ By: Beibarys Nyussupov
 Date: 4/28/2023
 
 
-![Bolivia.webp](attachment:Bolivia.webp)
+![Bolivia](Bolivia.webp)
+
 
 ## Variables used:
 
