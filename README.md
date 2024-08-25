@@ -2,8 +2,9 @@
 # **Comparing child mortality and child malnutrition in High and Low sustainable development areas in Bolivia**
 By: Beibarys Nyussupov
 Date: 4/28/2023
-Data source: [https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson](https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson)
-Related research article: [https://carlos-mendez.org/publication/20210318-economia/](https://carlos-mendez.org/publication/20210318-economia/)
+Data source: [GeoDS4Bolivia.geojson](https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson)
+Related research article: [Economia Publication](https://carlos-mendez.org/publication/20210318-economia/)
+
 
 ![Bolivia](Bolivia.webp)
 
