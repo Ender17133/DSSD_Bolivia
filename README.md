@@ -1,7 +1,9 @@
+[![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-blue.svg?logo=jupyter)](https://github.com/Ender17133/DSSD_Bolivia/blob/main/DSSD_healthcare.ipynb)
 # **Comparing child mortality and child malnutrition in High and Low sustainable development areas in Bolivia**
 By: Beibarys Nyussupov
 Date: 4/28/2023
-
+Data source: [https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson](https://github.com/DSSD-Madison/Nagoya/blob/main/data/GeoDS4Bolivia.geojson)
+Related research article: [https://carlos-mendez.org/publication/20210318-economia/](https://carlos-mendez.org/publication/20210318-economia/)
 
 ![Bolivia](Bolivia.webp)
 
